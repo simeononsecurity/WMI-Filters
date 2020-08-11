@@ -4,6 +4,7 @@
 
 A collection of WMI filters to assist with Windows Group Policy deployments
 
+Download the files from the  [GitHub Repository](https://github.com/simeononsecurity/WMI-Filters)
 
 ## How to install and use WMI Filters:
 
